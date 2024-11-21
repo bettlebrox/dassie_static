@@ -1,0 +1,4 @@
+baseURL = 'https://dass.ie/'
+languageCode = 'en-ie'
+title = 'Dassie'
+theme = 'PaperMod'
